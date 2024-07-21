@@ -8,12 +8,12 @@ This repository contains multiple C programming projects, each demonstrating dif
 ### 1. Calendar Generator
 Located in the `calender` directory, this project generates a calendar for a specified year, accounting for leap years and correctly aligning the days of the week.
 
-[View Calendar Generator README](./calender/readme.md)
+[View Calendar Generator Readme](./calender/readme.md)
 
 ### 2. Restaurant Bill Generator
 Located in the `restaurant` directory, this project is a restaurant bill management system that allows users to generate invoices, view past invoices, and search for specific invoices by customer name.
 
-[View Restaurant Bill Generator README](./restaurant/readme.md)
+[View Restaurant Bill Generator Readme](./restaurant-bill/readme.md)
 
 ## Repository Structure
 ```
