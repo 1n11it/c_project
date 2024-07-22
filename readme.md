@@ -8,12 +8,8 @@ This repository contains multiple C programming projects, each demonstrating dif
 ### 1. Calendar Generator
 Located in the `calender` directory, this project generates a calendar for a specified year, accounting for leap years and correctly aligning the days of the week.
 
-[View Calendar Generator Readme](./calender/readme.md)
-
 ### 2. Restaurant Bill Generator
-Located in the `restaurant` directory, this project is a restaurant bill management system that allows users to generate invoices, view past invoices, and search for specific invoices by customer name.
-
-[View Restaurant Bill Generator Readme](./restaurant-bill/readme.md)
+Located in the `restaurant-bill` directory, this project is a restaurant bill management system that allows users to generate invoices, view past invoices, and search for specific invoices by customer name.
 
 ## Repository Structure
 ```
@@ -23,7 +19,7 @@ c_project/
 │   ├── kalnirya.c
 │   └── kalnirya.exe
 │
-├── restaurant/
+├── restaurant-bill/
 │   ├── bill.c
 │   └── bill.exe
 │
@@ -51,4 +47,4 @@ To get started with any of these projects:
 These are personal projects, but suggestions and feedback are welcome. Feel free to open an issue if you have ideas for improvements or encounter any bugs.
 
 ## Contact
-Project Link: [https://github.com/1n11it/c_project](https://github.com/1n11it/c_project)
+For more information or queries, please email me at: [xalpha369@gmail.com](mailto:xalpha369@gmail.com)
