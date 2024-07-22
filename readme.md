@@ -39,7 +39,7 @@ To get started with any of these projects:
    ```
    or
    ```
-   cd c_project/restaurant
+   cd c_project/restaurant-bill
    ```
 3. Follow the instructions in the project-specific README for compilation and usage.
 
