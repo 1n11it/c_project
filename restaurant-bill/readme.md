@@ -14,7 +14,7 @@ This C program is a restaurant bill management system. It allows users to genera
 ```
 c_project/
 │
-└── restaurant/
+└── restaurant-bill/
     ├── bill.c
     └── bill.exe
 ```
@@ -26,7 +26,7 @@ c_project/
    ```
 2. Navigate to the project directory:
    ```sh
-   cd c_project/restaurant
+   cd c_project/restaurant-bill
    ```
 
 ## Usage
@@ -104,4 +104,4 @@ c_project/
 This is a personal project, but suggestions and feedback are welcome. Feel free to open an issue if you have ideas for improvements or encounter any bugs.
 
 ## Contact
-Project Link: [https://github.com/1n11it/c_project](https://github.com/1n11it/c_project)
+For more information or queries, please visit the [repository](https://github.com/1n11it/c_project).
