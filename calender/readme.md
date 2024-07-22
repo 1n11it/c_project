@@ -14,8 +14,8 @@ This C program generates a calendar for a specified year. It displays the calend
 c_project/
 │
 └── calender/
-    ├── kalnirya.c
-    └── kalnirya.exe
+    ├── kalnirnaya.c
+    └── kalnirnaya.exe
 ```
 
 ## Installation
@@ -36,8 +36,8 @@ c_project/
 
    For other operating systems or to recompile:
    ```sh
-   gcc -o kalnirya kalnirya.c
-   ./kalnirya
+   gcc -o kalnirnaya kalnirnaya.c
+   ./kalnirnaya
    ```
 
 2. Enter the year when prompted (format: YYYY).
@@ -69,4 +69,4 @@ SUN  MON  TUE  WED  THU  FRI  SAT
 This is a personal project, but suggestions and feedback are welcome. Feel free to open an issue if you have ideas for improvements or encounter any bugs.
 
 ## Contact
-Project Link: [https://github.com/1n11it/c_project](https://github.com/1n11it/c_project)
+For more information or queries, please visit the [repository](https://github.com/1n11it/c_project).
